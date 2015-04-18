@@ -1,0 +1,18 @@
+{
+  "name": "hisaab",
+  "version": "0.0.1",
+  "description": "time tracking tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "time",
+    "tracker",
+    "node",
+    "mongo",
+    "javascript"
+  ],
+  "author": "kaushal.rajkotia@gmail.com",
+  "license": "MIT"
+}
